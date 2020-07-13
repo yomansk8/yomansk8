@@ -6,7 +6,7 @@
 
 <hr/>
 
-I'm a Fullstack JS Developer currently workin at <a href="https://procsea.com">Procsea</a>. I was previously working at <a href="https://payfit.com">Payfit</a>, <a href="https://wing.eu">Wing</a> and <a href="http://binaryconcept.com/">Binary Concept</a>. I've made some small projects on my free time, like <a href="https://github.com/yomansk8/git-wc">git-wc</a> for example. You can check my repositories to see them!
+I'm a Fullstack JS Developer currently working at <a href="https://procsea.com">Procsea</a>. I was previously working at <a href="https://payfit.com">Payfit</a>, <a href="https://wing.eu">Wing</a> and <a href="http://binaryconcept.com/">Binary Concept</a>. I've made some small projects on my free time, like <a href="https://github.com/yomansk8/git-wc">git-wc</a> for example. You can check my repositories to see them!
 
 - 🌍 I live in Rennes, France.
 - 🔭 I’m currently working on the Procsea React app and UI library.
